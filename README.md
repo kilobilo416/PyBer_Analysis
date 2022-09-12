@@ -48,6 +48,6 @@ First we will provide the customer with the break down of the amount of rides.
  
 - As displayed by the data a high number of drivers and rides will show transperancy with medium to low fare.
 
--Increasing the cost of rides in the Urban area will proive the market a considerably larger  market and a small increase in the cost per ride could pay huge profit. 
+- Increasing the cost of rides in the Urban area will proive the market a considerably larger  market and a small increase in the cost per ride could pay huge profit. 
 
--Rural city areas seem to have low fare value, an option would be to raise the fares and allow farther distances of driving. This would lock in the drivers next hour or so and provide a steady more secure stream for the driver and will benifit the consumer. 
+- Rural city areas seem to have low fare value, an option would be to raise the fares and allow farther distances of driving. This would lock in the drivers next hour or so and provide a steady more secure stream for the driver and will benifit the consumer. 
